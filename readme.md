@@ -1,5 +1,15 @@
 # Realidad aumentada 
 
+## Cómo se hace
+
+- [API Google maps](./google-maps-api.md)
+
+## Documentación genérica
+
+- [Comandos git](./git-commands.md)
+
+
+
 - Udemy. Porcentaje **45%**
 
 
@@ -12,15 +22,17 @@
             - [x] Icono de instalación
             - [] Descripción de juego, instalación, uso   
         - [] Publicación
+        - [] Subir al store
     - [] IOS
+        - subir al store
 - [] Estáticos
     - [x] Texto
         - [] Cambiar de idioma
-    - [] Vídeos
-    - [] Audio
+    - [x] Vídeos
+    - [x] Audio
     - [x] Geolocacización
         - [] leaflet
-        - [] Google
+        - [x] Google
 - [] Interactividad
     - [x] movimiento cursor
     - [x] Seleccionarlo para hacer algo
