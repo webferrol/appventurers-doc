@@ -22,3 +22,15 @@ git merge nombre_de_tu_rama
 
 >⚠️ Si hay conflictos entre las dos ramas, Git te pedirá que resuelvas esos conflictos antes de completar la fusión.
 
+### Eliminar ramas
+
+```sh
+git branch -d nombre_de_tu_rama
+```
+
+Si lo que deseas es eliminar una **rama remota**:
+
+```sh
+git push origen --delete nombre_de_tu_rama
+```
+
