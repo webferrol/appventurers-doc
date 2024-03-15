@@ -20,7 +20,5 @@ git switch -c nombre_de_tu_rama
 git merge nombre_de_tu_rama
 ```
 
-[!NOTE]
-
->Si hay conflictos entre las dos ramas, Git te pedirá que resuelvas esos conflictos antes de completar la fusión.
+>⚠️ Si hay conflictos entre las dos ramas, Git te pedirá que resuelvas esos conflictos antes de completar la fusión.
 
