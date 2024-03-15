@@ -5,7 +5,7 @@
 ### Cambiar de rama
 
 ```sh
-git switch -c nombre_de_tu_rama
+git switch nombre_de_tu_rama
 ```
 
 ### Crear y cambiar a una nueva rama
