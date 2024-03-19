@@ -2,6 +2,12 @@
 
 ## Branch
 
+### Listar todas las ramas
+
+```sh
+git branch
+```
+
 ### Cambiar de rama
 
 ```sh
