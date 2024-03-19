@@ -1,6 +1,6 @@
 # Comandos Git
 
-## Branch
+## Branch (Ramas)
 
 ### Listar todas las ramas
 
