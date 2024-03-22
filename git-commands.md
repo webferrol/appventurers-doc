@@ -22,7 +22,7 @@
 </style>
 
 <div class="video-wrapper">
-<video class="responsive-video" src="https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s" controls poster="/images/midudev-git-tutorial.webp">
+<video class="responsive-video" src="https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s" controls poster="./images/midudev-git-tutorial.webp">
 Si no eres capas de reproducir este vídeo visualízalo <a href="https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s">aquí</a>
 </video>
 </div>
