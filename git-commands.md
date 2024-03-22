@@ -1,6 +1,41 @@
 # Comandos Git
 
+## Video tutorial
+
+<style>
+    .video-wrapper {
+  position: relative;
+  max-width: 1200px;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */
+  height: 0;
+  overflow: hidden;
+}
+
+.responsive-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border: 0;
+}
+</style>
+
+<div class="video-wrapper">
+<video class="responsive-video" src="https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s" controls poster="/images/midudev-git-tutorial.webp">
+Si no eres capas de reproducir este vídeo visualízalo <a href="https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s">aquí</a>
+</video>
+</div>
+
 ## Branch
+
+### Clonar ramas a una profundidad
+
+A veces no hace falta clonar totalmente todo el histórico o commits de un repositorio puede con el tiempo ocupar bastante. Una opción es clonar hasta un commit o "profundidad" que desemos. Por ejemplo, clonamos un repositiorio hasta el último commit:
+
+```sh
+git clone --depth 1   https://github.com/webferrol/my-github-repo.git
+```
 
 ### Listar todas las ramas
 
