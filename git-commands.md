@@ -4,7 +4,7 @@
 
 [![Alt text](./images/midudev-git-tutorial.webp)](https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s)
 
-## Branch
+## Clonar
 
 ### Clonar ramas a una profundidad
 
@@ -13,6 +13,8 @@ A veces no hace falta clonar totalmente todo el histórico o commits de un repos
 ```sh
 git clone --depth 1   https://github.com/webferrol/my-github-repo.git
 ```
+
+## Branch
 
 ### Listar todas las ramas
 
