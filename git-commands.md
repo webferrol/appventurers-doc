@@ -54,3 +54,14 @@ Si lo que deseas es eliminar una **rama remota**:
 git push origen --delete nombre_de_tu_rama
 ```
 
+## Contributing
+
+Aunque no son conceptos propiamente de **Git** esta sección es para todos los que quieran contribuir en el proyecto.
+
+Para contribuir en la documentación es necesario realizar una **solicitud de petición de cambios** (<abbr title="Pull Request">PR</abbr>).
+
+Este es el mecanismo para todos aquellos usuarios que no son **colaboradores** del proyecto. 
+
+Para ello el mecanismo adecuado es realizar un **fork** al proyecto y para cualquier cambio que realicen del mismo soliciar una **PR** a los miembros *colaborators*.
+
+La forma de escribir las *solicitudes de cambio* vienen el fichero [CONTRIBUTING.md](/CONTRIBUTING.md)
