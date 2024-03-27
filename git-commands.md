@@ -54,11 +54,29 @@ Si lo que deseas es eliminar una **rama remota**:
 git push origen --delete nombre_de_tu_rama
 ```
 
-## Generar una clave SSH en Github
+## Clonado mediante SSH
 
 Toda la información la tienes en la [docmentanción de Github](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
+### [Generar una clave SSH en Github](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
+
 ![Generar una nueva clave SSH](https://github.com/webferrol/appventurers-doc/assets/35032717/3d6668bd-f15b-412c-93bc-a3aed203ef60)
+
+### [Comprobar tus claves SSH existentes](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys#checking-for-existing-ssh-keys)
+
+```sh
+ls -al ~/.ssh
+```
+
+![Comprobar tus claves SSH existentes](./images/comprobar-claves-ssh-existentes.webp)
+
+### [Agregar una clave SSH nueva a tu cuenta de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows&tool=webui)
+
+Fíjate que tengas seleccionado tu **sistema operativo** y el entorno de desarrollo con el que desees trabajar (Github CLI, Web browser)
+
+![Selecciona correctamente tu sistema operativo y tu entorno de desarrollo](./images/agregar-clave-ssh-nueva-a-tu-cuenta-github.webp)
+
+A partir de aquí lea la documentación y siga las instrucciones.
 
 ## Contributing
 
