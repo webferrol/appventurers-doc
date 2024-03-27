@@ -54,6 +54,12 @@ Si lo que deseas es eliminar una **rama remota**:
 git push origen --delete nombre_de_tu_rama
 ```
 
+## Generar una clave SSH en Github
+
+Toda la información la tienes en la [docmentanción de Github](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+
+![Generar una nueva clave SSH](https://github.com/webferrol/appventurers-doc/assets/35032717/3d6668bd-f15b-412c-93bc-a3aed203ef60)
+
 ## Contributing
 
 Aunque no son conceptos propiamente de **Git** esta sección es para todos los que quieran contribuir en el proyecto.
