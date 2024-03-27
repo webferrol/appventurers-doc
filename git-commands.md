@@ -1,5 +1,7 @@
 # Comandos Git [🔙](/)
 
+:link: [Comandos más utilizados](https://training.github.com/downloads/es_ES/github-git-cheat-sheet/)
+
 ## Video tutorial
 
 [![Alt text](./images/midudev-git-tutorial.webp)](https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s)
