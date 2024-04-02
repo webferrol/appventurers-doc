@@ -53,7 +53,7 @@ git branch -d nombre_de_tu_rama
 Si lo que deseas es eliminar una **rama remota**:
 
 ```sh
-git push origen --delete nombre_de_tu_rama
+git push origin --delete nombre_de_tu_rama
 ```
 
 ## Clonado mediante SSH
