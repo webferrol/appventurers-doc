@@ -2,7 +2,7 @@
 
 ## Fonte
 
-[(./images/captura-video.png)](https://www.youtube.com/watch?v=F7c6acaxHkk)
+[![](./images/captura-video.png)](https://www.youtube.com/watch?v=F7c6acaxHkk)
 
 
 ## Pasos
