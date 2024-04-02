@@ -1,9 +1,25 @@
-# Incluir imágenes y videos en Unity
+# Como incluir imaxes e vídeos en Unity
 
-## Imágenes
+## Imaxes
 
-### Raw Image
+1. Crear **carpeta Images** dentro da **carpeta Assets** e arrastrar as imaxes á carpeta.
+2. - Se é un proxecto 2D
+        1. Crear un **Game Object vacío** (Create Empty).
 
-1. Crear carpeta Images dentro de la carpeta Assets y arrastrar las imagenes a la carpeta.
-2. - SI ES PROYECTO 2D: añadir componente image en el inspector del GO al que se le quiera incluir la imagen.
-    - SI ES PROYECTO 3D: Añadir el componente imagen clicando con el botón derecho en el GO desde el panel de Hierarchy.
+        2. No panel *Inspector* engadir o compoñente **Image** ao Game Object.
+            ![Componente image](./images/componente-image.png)
+
+        3. Arrastrar a imaxe ao apartado **Source image**.
+            ![Apartado Source image de image](./images/source-image.png)
+
+
+    - Se é un proxecto 3D: 
+        1. Engadir o compoñente de UI **Raw image** clicando co botón dereito sobre o Game Object dende o panel de *Hierarchy*.
+
+            ![Componente Raw image](./images/raw-image.png)
+
+        2. No panel *Inspector* da Raw image arrastrar a imaxe que se quere incluir no apartado de **Texture**.
+
+            ![Apartado Texture de Raw image](./images/texture-raw-image.png)
+
+## Videos
