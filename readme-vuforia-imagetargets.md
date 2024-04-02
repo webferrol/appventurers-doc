@@ -1,7 +1,6 @@
-# CREACIÓN BBDD VUFORIA
+# CREACIÓN BBDD IMAGETARGET VUFORIA
 
-1) Entramos no 'Vuforia Engine Developer Portal' e accedemos ó 'Target Manager'.
-https://developer.vuforia.com/vui/develop/databases
+1) Entramos no 'Vuforia Engine Developer Portal' e accedemos ó ['Target Manager'](https://developer.vuforia.com/vui/develop/databases "Target Manager").
 
 2) Prememos en 'Generate Database'. Establecemos o tipo 'Device'. Damos un nome e xeramos.
 
