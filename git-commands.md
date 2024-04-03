@@ -40,3 +40,8 @@ Si lo que deseas es eliminar una **rama remota**:
 git push origen --delete nombre_de_tu_rama
 ```
 
+### Renombrar ramas
+
+```sh
+git branch -m NOMBRE_RAMA_ANTIGUA NOMBRE_NUEVA_RAMA
+```
