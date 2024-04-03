@@ -1,4 +1,8 @@
-# Realidad aumentada
+# 📱 Realidad aumentada
+
+## 🧑‍🤝‍🧑 Contribuir
+
+Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTRIBUTING](./CONTRIBUTING.md).
 
 ## Proyectos
 
@@ -9,18 +13,18 @@
 
 ## Despliegue en Android
 
-## UNITY
+## 🎮 UNITY
 
 - [API Google maps](./unity/google-maps-api.md)
 - [Internalización / Idiomas](./unity/internationalization.md)
 
-## Vuforia
+## 💾 Vuforia
 
 - [Conexión a la base de datos](./vuforia/connection-ddbb.md)
 
 ## Documentación genérica
 
-- [Comandos git](./other/git-commands.md)
+- [💻 Comandos git](./other/git-commands.md)
 
 
 ## Lo que sabemos y no sabemos hacer
