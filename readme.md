@@ -1,30 +1,41 @@
-# Realidad aumentada 
+# Realidad aumentada
 
-## Cómo se hace
+## Proyectos
 
-- [API Google maps](./google-maps-api.md)
+- [] Mercado de Abastos
+- [] Museo do pobo galego
+    - [] Pendientes textos
+- [] Ruta do Sar
+
+## Despliegue en Android
+
+## UNITY
+
+- [API Google maps](./unity/google-maps-api.md)
+- [Internalización / Idiomas](./unity/internationalization.md)
+
+## Vuforia
+
+- [Conexión a la base de datos](./vuforia/connection-ddbb.md)
 
 ## Documentación genérica
 
-- [Comandos git](./git-commands.md)
+- [Comandos git](./other/git-commands.md)
 
 
-
-- Udemy. Porcentaje **45%**
-
-
-## Lo que sabemos hacer
+## Lo que sabemos y no sabemos hacer
 - [x] Conocimiento interfaz
 - [] Móvil
     - [] Android
+        - [] Cuenta developer
         - [x] Generación producción aab
         - [] Ajustes para la aplicación
-            - [x] Icono de instalación
+            - [] Icono de instalación
             - [] Descripción de juego, instalación, uso   
         - [] Publicación
         - [] Subir al store
     - [] IOS
-        - subir al store
+        - Subir al store
 - [] Estáticos
     - [x] Texto
         - [] Cambiar de idioma
@@ -45,12 +56,3 @@
     - [] Google maps
 - [] AR Core Foundation
     - [] Google mpas
-
-# LinkedIn Learning
-
-- 5%
-
-
-# Lo que tenemos que aprender
-
-- [] C##
