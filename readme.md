@@ -13,16 +13,16 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## Despliegue en Android
 
-## 🎮 UNITY
+## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/5d1edad5-8fac-4093-8752-4ca291d96b26" width="24" alt="unity"> UNITY
 
 - [API Google maps](./unity/google-maps-api.md)
 - [Internalización / Idiomas](./unity/internationalization.md)
 
-## 💾 Vuforia
+## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/ddd196af-9842-4560-9666-f121e69ec1d7" width="24" alt="vuforia"> Vuforia
 
 - [Conexión a la base de datos](./vuforia/connection-ddbb.md)
 
-## Documentación genérica
+## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/507c607e-57aa-412b-ae81-bf31f9213650" width="24" alt="Ver"> Documentación genérica
 
 - [💻 Comandos git](./other/git-commands.md)
 
