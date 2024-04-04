@@ -4,12 +4,9 @@
 
 Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTRIBUTING](./CONTRIBUTING.md).
 
-## Proyectos
+## Diagrama del proyecto
 
-- [] Mercado de Abastos
-- [] Museo do pobo galego
-    - [] Pendientes textos
-- [] Ruta do Sar
+![Diagrama](./images/appventurers-application-diagram.drawio.svg)
 
 ## Despliegue en Android
 
