@@ -4,7 +4,7 @@
 
 ## Video tutorial
 
-[![Alt text](./images/midudev-git-tutorial.webp)](https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s)
+[![Alt text](../images/midudev-git-tutorial.webp)](https://www.youtube.com/watch?v=niPExbK8lSw&t=2265s)
 
 ## Clonar
 
@@ -44,6 +44,10 @@ git merge nombre_de_tu_rama
 
 >⚠️ Si hay conflictos entre las dos ramas, Git te pedirá que resuelvas esos conflictos antes de completar la fusión.
 
+### Git merge vs git rebase
+
+![Git merge vs git rebase](https://github.com/webferrol/appventurers-doc/assets/35032717/d6873e75-4892-4027-9e0d-d6ddbb785b3f)
+
 ### Eliminar ramas
 
 ```sh
@@ -70,13 +74,13 @@ Toda la información la tienes en la [docmentanción de Github](https://docs.git
 ls -al ~/.ssh
 ```
 
-![Comprobar tus claves SSH existentes](./images/comprobar-claves-ssh-existentes.webp)
+![Comprobar tus claves SSH existentes](../images/comprobar-claves-ssh-existentes.webp)
 
 ### [Agregar una clave SSH nueva a tu cuenta de GitHub](https://docs.github.com/es/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account?platform=windows&tool=webui)
 
 Fíjate que tengas seleccionado tu **sistema operativo** y el entorno de desarrollo con el que desees trabajar (Github CLI, Web browser)
 
-![Selecciona correctamente tu sistema operativo y tu entorno de desarrollo](./images/agregar-clave-ssh-nueva-a-tu-cuenta-github.webp)
+![Selecciona correctamente tu sistema operativo y tu entorno de desarrollo](../images/agregar-clave-ssh-nueva-a-tu-cuenta-github.webp)
 
 A partir de aquí lea la documentación y siga las instrucciones.
 
