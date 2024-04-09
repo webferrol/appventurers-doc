@@ -1,5 +1,9 @@
 # 📱 Realidad aumentada
 
+## Contacto
+
+- [📧 obradoirosdeemprego@santiagodecompostela.gal](obradoirosdeemprego@santiagodecompostela.gal)
+
 ## 🧑‍🤝‍🧑 Contribuir
 
 Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTRIBUTING](./CONTRIBUTING.md).
