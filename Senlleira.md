@@ -25,6 +25,11 @@ https://github.com/Senlleirapp/Senlleirapp.git
 - Email: xgonten.sansus3@gmail.com
 - Pass: Tq0xuxvBMs27042304()
 
+## Vuforia
+- Email: santiagosustentable2@gmail.com
+- Usuario: Santiago Sustentable
+- Pass: SantiagoSustentable-2
+
 ## App (Acceso a administración)
 
 URL : [dominio]/adpower10
