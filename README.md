@@ -29,6 +29,9 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 
 ## Lo que sabemos y no sabemos hacer
+
+![1712736247392.jpg](https://github.com/webferrol/appventurers-doc/assets/35032717/36f2ddf0-9cce-4d23-80c7-85dc84f193a2)
+
 - [x] Conocimiento interfaz
 - [] Móvil
     - [] Android
