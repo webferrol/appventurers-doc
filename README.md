@@ -12,7 +12,9 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ![Diagrama](./images/appventurers-application-diagram.drawio.svg)
 
-## Despliegue en Android
+## Despliegues
+
+- [En Android](./deploys/android.md)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/5d1edad5-8fac-4093-8752-4ca291d96b26" width="24" alt="unity"> UNITY
 
