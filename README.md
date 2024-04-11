@@ -29,6 +29,10 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 - [💻 Comandos git](./other/git-commands.md)
 
+## Herramientas
+
+- [📐 Para diagramar](https://www.drawio.com/blog/move-diagrams-net) 
+
 
 ## Lo que sabemos y no sabemos hacer
 
