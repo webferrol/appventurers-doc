@@ -14,7 +14,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## Despliegues
 
-- [En Android](./deploys/android.md)
+- [<img width="18" src="https://github.com/webferrol/appventurers-doc/assets/35032717/201fbb2f-66a7-45c1-a54e-674f04a8ca90"> En Android](./deploys/android.md)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/5d1edad5-8fac-4093-8752-4ca291d96b26" width="24" alt="unity"> UNITY
 
