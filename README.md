@@ -33,15 +33,18 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## Herramientas
 
-- [📐 Para diagramar](https://www.drawio.com/blog/move-diagrams-net) 
+- [📐 Para diagramar](https://www.drawio.com/blog/move-diagrams-net)
+
+## Enlaces para ver
+
+- [Export Character Creator to unity](https://youtu.be/tgirPjknAv4)
+- [How to Build a Character Creator UI in Unity](https://www.youtube.com/watch?v=xS8tuHg0-rc)
+- [Importación de modelos](https://docs.unity3d.com/Manual/models-importing.html)
 
 
 ## Lo que sabemos y no sabemos hacer
 
 ![1712736247392.jpg](https://github.com/webferrol/appventurers-doc/assets/35032717/36f2ddf0-9cce-4d23-80c7-85dc84f193a2)
-
-- enlaces
-    - [Export Character Creator to unity](https://youtu.be/tgirPjknAv4)
 
 - [x] Conocimiento interfaz
 - [] Móvil
