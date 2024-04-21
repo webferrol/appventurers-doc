@@ -43,6 +43,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [How to Build a Character Creator UI in Unity](https://www.youtube.com/watch?v=xS8tuHg0-rc)
 - [Importación de modelos](https://docs.unity3d.com/Manual/models-importing.html)
 - [Packages](https://docs.unity3d.com/Manual/PackagesList.html)
+- [Integración en la web](https://www.youtube.com/watch?v=K52l9P19_2o)
 
 ## Lo que sabemos y no sabemos hacer
 
