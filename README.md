@@ -22,6 +22,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 - [API Google maps](./unity/google-maps-api.md)
 - [Internalización / Idiomas](./unity/internationalization.md)
+- [⏯️Posicionamiento del menú adaptativo](https://www.youtube.com/watch?v=y9cXHCTas9A&t=184s)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/ddd196af-9842-4560-9666-f121e69ec1d7" width="24" alt="vuforia"> Vuforia
 
