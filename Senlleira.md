@@ -1,8 +1,8 @@
 # Google
-- Email: senlleira.app@gmail.com
-- Pass: apdtmMdp27042304()
+Email: innobosquesantiago@gmail.com
+password: Montse1972*
 ```
-Si pide código : Teléfono de Xurxo  (655908367) o email(info@webferrol.com)
+Si pide código : Teléfono Montse
 ```
 
 ## Firebase
