@@ -1,38 +1,21 @@
-// using System.Collections;
-// using System.Collections.Generic;
 using UnityEngine;
 
-
-public class CastelaoScript : MonoBehaviour
+public class CharacterScript : MonoBehaviour
 {
-    // interfaces
     private AudioSource audioSource;
     private Animator animator;
-
-
-    // primitivos
     public bool isPaused = true;
-    public float velocidadPrevia;
+    public float speedInitialValue;
 
     // Use this for initialization
     void Start()
     {
-
        audioSource = GetComponent<AudioSource>();
        animator = GetComponent<Animator>();
-        velocidadPrevia = animator.speed;
-        //  originalRot = transform.localRotation;
+        speedInitialValue = animator.speed;
+        //originalRot = transform.localRotation;
 
-    }
-
-    // public void DetenerReproduccion()
-    // {
-    //     // Detener la animación
-    //     animator.speed = 0f;
-    // }
-
-
-  
+    } 
 
     // Update is called once per frame     
     void Update()
@@ -43,7 +26,7 @@ public class CastelaoScript : MonoBehaviour
             if (isPaused) 
             {
                 if (!audioSource.isPlaying) audioSource.UnPause();
-                animator.speed = velocidadPrevia;
+                animator.speed = speedInitialValue;
             }
             else
             {
