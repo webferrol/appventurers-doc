@@ -15,7 +15,7 @@ public class CharacterScript : MonoBehaviour
         speedInitialValue = animator.speed;
         //originalRot = transform.localRotation;
         Pause();
-        isPaused = !isPaused;
+        isPaused = true;
 
     }
 
