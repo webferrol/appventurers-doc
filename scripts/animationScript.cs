@@ -1,3 +1,5 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterScript : MonoBehaviour
@@ -10,11 +12,9 @@ public class CharacterScript : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-       audioSource = GetComponent<AudioSource>();
-       animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
+        animator = GetComponent<Animator>();
         speedInitialValue = animator.speed;
-        //originalRot = transform.localRotation;
-
     } 
 
     // Update is called once per frame     
