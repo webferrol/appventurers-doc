@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class CharacterScript : MonoBehaviour
+public class PauseGame : MonoBehaviour
 {
     public bool isPaused = true;
     // Source https://gamedevbeginner.com/the-right-way-to-pause-the-game-in-unity/
