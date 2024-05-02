@@ -12,9 +12,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## Diagrama del proyecto
 
-<a rel="noopener noreferrer" href="https://drive.google.com/file/d/1_rwJqQdyMqmlfV_UfCPRWmVZgKmLhxPP/view?usp=sharing">
-    Diagrama
-</a>
+- [Diagrama en Drawio]([./deploys/android.md](https://drive.google.com/file/d/1_rwJqQdyMqmlfV_UfCPRWmVZgKmLhxPP/view?usp=sharing))
 
 ## Master Class
 
