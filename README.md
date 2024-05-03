@@ -33,6 +33,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 >**Vuforia** is a comprehensive, scalable enterprise **AR platform**.
 
 - [Conexión a la base de datos](./vuforia/connection-ddbb.md)
+- [Mejores prácticas para trackear](https://developer.vuforia.com/library/objects/best-practices-designing-and-developing-image-based-targets)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/507c607e-57aa-412b-ae81-bf31f9213650" width="24" alt="Ver"> Documentación genérica
 
