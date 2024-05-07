@@ -1,19 +1,18 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 
 public class Counter : MonoBehaviour
 {
-    private Text countText;
-    private int count;
+    private TMP_Text countText;
+    public int count;
     private int countInitialValue = 0;
 
+    // Start is called before the first frame update
     void Start()
     {
-        
-        countText = GetComponent<Text>();
-        countInitialValue = int.Parse(countText.text);
+
+        countText = GetComponent<TMP_Text>(); // GETComponet Gets a reference to a component of type T on the specified GameObject.
+        int.TryParse(countText.text, out countInitialValue);
         count = countInitialValue;
     }
 
@@ -24,7 +23,8 @@ public class Counter : MonoBehaviour
 
     }
 
-    public void OnIncrease () {
+    public void OnIncrease()
+    {
         count++;
     }
 
@@ -32,9 +32,10 @@ public class Counter : MonoBehaviour
     {
         count--;
     }
-
+    
     public void OnReset()
     {
         count = countInitialValue;
     }
 }
+
