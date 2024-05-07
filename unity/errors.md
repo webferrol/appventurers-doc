@@ -6,6 +6,8 @@
 
 ![ Adaptive Performance Settings](../images/adaptative-performance-window.webp)
 
+**NOS MOVEMOS POR ARENAS MOVEDIZAS**. Este problema puede venir de ciertos dispositivos. A no ser que sepas lo que haces recomendamos la solución de abajo.
+
 ## Solución
 
 A veces cerrando y abriendo **Unity** desaparece este aviso.
