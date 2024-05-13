@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.42344362, g: 0.47082424, b: 0.51312023, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -206,7 +206,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1340025511}
+      - m_Target: {fileID: 1340025512}
         m_TargetAssemblyTypeName: TMP_Subtitles, Assembly-CSharp
         m_MethodName: StartSubtitles
         m_Mode: 1
@@ -334,7 +334,6 @@ GameObject:
   m_Component:
   - component: {fileID: 182561056}
   - component: {fileID: 182561057}
-  - component: {fileID: 182561058}
   m_Layer: 5
   m_Name: GO_Data
   m_TagString: Untagged
@@ -374,25 +373,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 182561055}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 562b9fc343cb6434b9ee68534015426d, type: 3}
+  m_Script: {fileID: 11500000, guid: a13c2c7c74d82274a95fd0259c5393eb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  TextFile: {fileID: 4900000, guid: b6feed4ff2f2816419352005c40494b9, type: 3}
+  TextFile: {fileID: 4900000, guid: 2e1dab8ee7965e742b5f1e9a51cd3834, type: 3}
   currentSubtitleIndex: 0
---- !u!114 &182561058
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 182561055}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 562b9fc343cb6434b9ee68534015426d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  TextFile: {fileID: 4900000, guid: b6feed4ff2f2816419352005c40494b9, type: 3}
-  currentSubtitleIndex: 1
 --- !u!1 &205490239
 GameObject:
   m_ObjectHideFlags: 0
@@ -476,7 +461,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1340025511}
+      - m_Target: {fileID: 1340025512}
         m_TargetAssemblyTypeName: TMP_Subtitles, Assembly-CSharp
         m_MethodName: StopSubtitles
         m_Mode: 1
@@ -857,7 +842,7 @@ GameObject:
   - component: {fileID: 1340025508}
   - component: {fileID: 1340025510}
   - component: {fileID: 1340025509}
-  - component: {fileID: 1340025511}
+  - component: {fileID: 1340025512}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -981,7 +966,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1340025507}
   m_CullTransparentMesh: 1
---- !u!114 &1340025511
+--- !u!114 &1340025512
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -990,7 +975,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1340025507}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 08517636614ff0a47bf28e04d2c1f60e, type: 3}
+  m_Script: {fileID: 11500000, guid: 60844f94e79f9aa429c060216486cdef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   data: {fileID: 182561057}
@@ -1448,7 +1433,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1340025511}
+      - m_Target: {fileID: 1340025512}
         m_TargetAssemblyTypeName: TMP_Subtitles, Assembly-CSharp
         m_MethodName: ResetSubtitles
         m_Mode: 1
