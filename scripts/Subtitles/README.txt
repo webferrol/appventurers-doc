@@ -1,0 +1,1 @@
+:warning: Cambiar el fichero de texto LF por CRLF si no puenden producirse fallos inesperados
