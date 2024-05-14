@@ -38,6 +38,10 @@
 
 ![Alt text](../images/string-reference.png)
 
+Aquí é fundamental dentro do **String Event** asociar un string ao texto que queiramos traducir. Como se ve na captura ten que estar no desplegable modo **Editor and Runtime**, arrastrar o caixón de texto e onde pon No Function escoller a opción de **TextMeshProUGUI.text**.
+
+![Alt text](../images/string-localization.png)
+
 8. Finalmente para poder ver os cambios de idiomas temos que darlle ao play, créasenos unha ventana arriba á dereita despregable, e se pinchamos sobre ela podemos ver todos os idiomas dispoñibles.
 
 
