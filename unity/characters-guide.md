@@ -15,9 +15,9 @@ proxecto-unity/Assets/Characters/
 (De non existir a carpeta 'Characters' creámola)
 ```
 
-3) Unha vez importado o persoaxe, seleccionamos 'Fix Now' no cadro de texto
+3) Unha vez importado/s o/s personaxe/s, seleccionamos 'Fix Now' na ventá de 'NormalMap Settings'
 
-4) Axustamos o pelo da persoaxe e prememos en 'Build materials' 
+4) Axustamos o pelo da personaxe e prememos en 'Build materials' 
 
 ```
 Reallusion -> Import Characters
