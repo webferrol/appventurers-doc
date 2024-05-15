@@ -24,7 +24,7 @@ Window -> Package Manager -> add package by name: "com.unity.vectorgraphics"
 ```
 
 
-3. Instalar Reallusion:
+3. [OPCIONAL] Instalar Reallusion:
 
 ```
 Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
@@ -41,7 +41,7 @@ assets -> import package -> custom package: /packages/RL_ShaderPackage_3D.unityp
 (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/cc_unity_tools_3D/Packages/)
 ```
 
-5. Importar Vuforia:
+5. [OPCIONAL] Importar Vuforia:
    
 ```
 Doble click en: [add-vuforia-package-10-22-5.unitypackage]
@@ -49,7 +49,13 @@ Doble click en: [add-vuforia-package-10-22-5.unitypackage]
 (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/)
 ```
 
-6. Cambiar Build Settings para Android:
+6. Copiar os Assets da carpeta compartida aos Assets en Local:
+
+```
+(Localizado en: /compartida/APPVENTURERS/unity/Doc/Assets/)
+```
+
+7. Cambiar Build Settings para Android:
 
 ```
 File -> Build Settings -> Android -> Switch Platform 
@@ -57,11 +63,7 @@ File -> Build Settings -> Android -> Switch Platform
 (Se vamos a usar varias escenas, agregalas a 'Scenes in Build' arrastrándoas dende o explorador de Unity.)
 ```
 
-7. Copiar os Assets da carpeta compartida aos Assets en Local:
 
-```
-(Localizado en: /compartida/APPVENTURERS/unity/Doc/Assets/)
-```
 
 --------------------------------
 
