@@ -68,14 +68,4 @@ File -> Build Settings -> Android -> Switch Platform
 IMPORTANTE:
 * INTENTAR COPIAR TODO A LOCAL ANTES DE TOCALO!
 * NON TRABALLAR CON ARQUIVOS DIRECTAMENTE DENDE A COMPARTIDA!
-
-OUTROS:
-```
-- borrar Main Camera & Directional Light
-- meter os personajes en /Assets/
-- realusion -> import characters -> cambiar 'two pass hair' a 'MSAA coverage hair' -> build materials
-- importar bbdd vuforia
-- PARA ANIMAR: Arrastrar animacion a 'Controller' /OU/ Reallusion -> animation player
-- PARA DARLLE AUDIO: Arrastrar audio ó obxeto do personaxe da jerarquia da Scene
-```
-
+  
