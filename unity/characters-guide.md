@@ -17,6 +17,10 @@ proxecto-unity/Assets/Characters/
 
 3) Unha vez importado/s o/s personaxe/s, seleccionamos 'Fix Now' na ventá de 'NormalMap Settings'
 
+```
+NormalMap Settings -> Fix Now
+```
+
 4) Axustamos o pelo da personaxe e prememos en 'Build materials' 
 
 ```
