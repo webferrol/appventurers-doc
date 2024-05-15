@@ -24,11 +24,14 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/5d1edad5-8fac-4093-8752-4ca291d96b26" width="24" alt="unity"> UNITY
 
-- [Internalización / Idiomas](./unity/internationalization.md)
-- [⏯️Posicionamiento del menú adaptativo](https://www.youtube.com/watch?v=y9cXHCTas9A&t=184s)
-- [Pausar vídeo audio](https://gamedevbeginner.com/the-right-way-to-pause-the-game-in-unity/)
+- [Configuración y guía de configuración rápida de la app](./unity/new-projects-guide.md)
+- [⏯️ Internalización / Idiomas](./unity/internationalization.md)
+- [⏯️ Posicionamiento del menú adaptativo](https://www.youtube.com/watch?v=y9cXHCTas9A&t=184s)
+- [⏯️ Pausar vídeo audio](https://gamedevbeginner.com/the-right-way-to-pause-the-game-in-unity/)
 - [⏯️ Subtítulos](./unity/subtitles.md)
 - [⏯️ Escalado de imágenes](./unity/config-autoescalado.md)
+- [⏯️ GameObject Scrollview](./unity/scrollview.md)
+- [Guía de importación de personajes](./unity/characters-guide.md)
 
 ### Correciones de avisos y errores
 
@@ -39,6 +42,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 >**Vuforia** is a comprehensive, scalable enterprise **AR platform**.
 
 - [Conexión a la base de datos](./vuforia/connection-ddbb.md)
+- [Guía de Vuforia](./vuforia/vuforia-guide.md)
 - [Mejores prácticas para trackear](https://developer.vuforia.com/library/objects/best-practices-designing-and-developing-image-based-targets)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/507c607e-57aa-412b-ae81-bf31f9213650" width="24" alt="Ver"> Documentación genérica
