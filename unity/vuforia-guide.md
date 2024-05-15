@@ -1,6 +1,6 @@
-```
-UNITY - GUÍA DE VUFORIA
-```
+
+> # UNITY - GUÍA DE VUFORIA
+
 
 1) Descargamos Vuforia dende a plataforma oficial
 
