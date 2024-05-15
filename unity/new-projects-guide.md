@@ -26,11 +26,11 @@ Window -> Package Manager -> add package by name: "com.unity.vectorgraphics"
 
 4. Instalar Reallusion:
 
-    ```
-    Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
-    
-    (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/)
-    ```
+```
+Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
+
+(Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/)
+```
 
 
 5. Instalar 3D Tools:
