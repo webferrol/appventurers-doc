@@ -8,3 +8,14 @@ Para colocarlle as gafas a un personaxe e que se axusten ós movementos que real
 ( Se non nos permite mover as gafas dentro da xerarquía do personaxe, facemos click dereito no personaxe e prememos 'Prefab -> Unpack'. Nas capturas adxuntas sería facer clic dereito en 'castelao_salamar')
 3. As gafas deberían quedar dentro de CC_Base_Head, que é a cabeza do personaxe.
 (Ver fotos para referencia)
+
+```
+Capturas de referencia:
+Antes:
+```
+![Alt text](../images/guia-audios-screenshot-01.png)
+
+```
+Despois:
+```
+![Alt text](../images/guia-audios-screenshot-02.png)
