@@ -11,6 +11,8 @@ Para colocarlle as gafas a un personaxe e que se axusten ós movementos que real
 
 ```
 Capturas de referencia:
+```
+```
 Antes:
 ```
 ![Alt text](../images/guia-audios-screenshot-01.png)
