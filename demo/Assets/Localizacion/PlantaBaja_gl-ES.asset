@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: PlantaBaja_gl-ES
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: gl-ES
+  m_SharedData: {fileID: 11400000, guid: 9e6ff31ba48e9974ea288ae9229b67cc, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 333301247496192
+    m_Localized: a9f02114bcc596b4784dcb44b348f149[mapa_gal_01]
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

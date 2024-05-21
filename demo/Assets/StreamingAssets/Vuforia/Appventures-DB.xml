@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mesadetrabajo25copia-100" size="4.000000 4.374582" />
+    <ImageTarget name="mesadetrabajo30-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladaindumentaria2-100" size="4.000000 4.374582" />
+    <ImageTarget name="mesadetrabajo25-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladaindumentaria2_1-1hklhg" size="4.000000 4.389262" />
+    <ImageTarget name="saladosoficios-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladacampo-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladacest" size="4.000000 4.374582" />
+    <ImageTarget name="saladosoficios2-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladotecido-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladomar-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladasociedade-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladasociedade2-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladaolaria-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladaolaria2-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladamusica-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladamusica2-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladaindumentaria-100" size="4.000000 4.389262" />
+    <ImageTarget name="saladaarquitectura-100" size="4.000000 4.374582" />
+    <ImageTarget name="saladaarquitectura2-100" size="4.000000 4.374582" />
+    <ImageTarget name="saldomar2-100" size="4.000000 4.389262" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Galician (Spain) (gl-ES)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Galician (Spain) (gl-ES)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0c316d083d5b24f4b81a3229bd6b9dde
+  m_SerializeEntries:
+  - m_GUID: 8e37a27a1cfb17b429d45c29560ef264
+    m_Address: PlantaBaja_gl-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81a52c7d6668ac1468b40f6a81dd594c
+    m_Address: EntrePlanta_gl-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b2a440c32998a34f9eae3947e35c7ba
+    m_Address: PlantaPrimera_gl-ES
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-gl-ES
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 17664daf321499b44918c834220192f5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b4db2733efed14d41b4a71088c05076c, type: 2}
+    - {fileID: 11400000, guid: c412cc9cf1c64a94fb01a875fa5f7ae9, type: 2}
