@@ -17,10 +17,14 @@ Unity HUB -> New Project -> 3d Core
 ```
 
 
-2. Implementar soporte para iconos SVG:
+2. Implementar soporte para iconos SVG y Localization:
    
 ```
 Window -> Package Manager -> add package by name: "com.unity.vectorgraphics"
+```
+
+```
+Window -> Package Manager -> add package by name: "com.unity.localization"
 ```
 
 
