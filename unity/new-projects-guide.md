@@ -66,7 +66,9 @@ File -> Build Settings -> Android -> Switch Platform
 7. Copiar os Assets da carpeta compartida aos Assets en Local:
 
 ```
-(Localizado en: /compartida/APPVENTURERS/unity/Doc/Assets/)
+(Localizado en: Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
+
+([Localizado en]: (https://github.com/webferrol/appventurers-doc/tree/main/demo/Assets))
 
 
 --------------------------------
