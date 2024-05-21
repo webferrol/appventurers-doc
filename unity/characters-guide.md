@@ -50,9 +50,3 @@ Desplegamos o arquivo personaxe.fbx no explorador de ficheiros de unity
 
 Arrastramos o 'Animation Clip' pertinente ó Animator 
 ```
-
-8) Asignámoslle audio ós personaxes:
-
-```
-Arrastrar audio ó obxeto do personaxe da xerarquia da Scene
-```
