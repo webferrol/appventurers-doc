@@ -1,12 +1,9 @@
 # ASIGNAR ANIMACIÓN E AUDIO A PERSOAXES:
 1) Seguimos os pasos de importación de persoaxe incluídos no [readme](https://github.com/webferrol/appventurers-doc/blob/main/unity/characters-guide.md)
-2) Movémolo dentro da xerarquía a: ImageTarget -> PanelAnclaxe -> o_noso_personaxe
-3) Creamos un compoñente AudioSource e asignámoslle o audio do personaxe.
-
----
-# PARA ASIGNAR O SCRIPT:
-1) Asignámoslle o noso script a un GameObject(P. ex. a un Empty GameObject ou ImageTarget)
-2) Accedemos ás propiedades de este GameObject
-3) Asignámoslle as funcións pertinentes do script ós eventos "On Target Found ()" e "On Target Lost ()"
-4) Se non están, asignamos 'My Audio' e 'My Character' na sección Character Play (Script)
+2) Movemos o personaxe dentro da xerarquía do proxecto a: ImageTarget -> PanelAnclaxe -> o_noso_personaxe
+3) Copiamos o script 'CharacterPlay.cs' ó noso proxecto e asignámosllo á ImageTarget
+4) Nas propiedades da Image Target, asignámoslle os scripts 'TargetFound' e 'TargetLost' ós eventos "On Target Found ()" e "On Target Lost ()" respectivamente
+5) Creamos obxecto AudioSource na xerarquía e asignámoslle o audio do personaxe (ao mesmo nivel xerárquico que o PanelAnclaxe)
+6) Dentro das propiedades de ImageTarget Asignamos este AudioSource a 'My Audio' e o obxeto personaxe a 'My Character'
+7) Asignamos Animator e animación ó personaxe
    
