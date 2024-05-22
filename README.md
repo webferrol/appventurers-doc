@@ -32,6 +32,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [⏯️ Escalado de imágenes](./unity/config-autoescalado.md)
 - [⏯️ GameObject Scrollview](./unity/scrollview.md)
 - [Guía de importación de personajes](./unity/characters-guide.md)
+- [Asignar animación e audio a personajes](./unity/image-target-found-and-lost-events.md)
 
 ### Correciones de avisos y errores
 
