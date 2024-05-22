@@ -6,7 +6,7 @@ using System.Collections;
 
 public class TMP_LanguageSelector : MonoBehaviour
 {
-    public TMP_Dropdown languageDropdown; // Asigna el TMP_Dropdown desde el inspector
+    public TMP_Dropdown DropdownLangComponent; // Asigna el TMP_Dropdown desde el inspector
     [SerializeField] private Locale defaultLocale;
     void Start()
     {
@@ -16,18 +16,18 @@ public class TMP_LanguageSelector : MonoBehaviour
         }
         // Rellena el TMP_Dropdown con los idiomas disponibles
         var availableLocales = LocalizationSettings.AvailableLocales.Locales;
-        languageDropdown.options.Clear();
+        DropdownLangComponent.options.Clear();
         foreach (var locale in availableLocales)
         {
-            // languageDropdown.options.Add(new TMP_Dropdown.OptionData(locale.Identifier.Code));
-            languageDropdown.options.Add(new TMP_Dropdown.OptionData(locale.LocaleName));
+            // DropdownLangComponent.options.Add(new TMP_Dropdown.OptionData(locale.Identifier.Code));
+            DropdownLangComponent.options.Add(new TMP_Dropdown.OptionData(locale.LocaleName));
         }
 
-        languageDropdown.onValueChanged.AddListener(delegate { OnLanguageChanged(languageDropdown); });
+        DropdownLangComponent.onValueChanged.AddListener(delegate { OnLanguageChanged(DropdownLangComponent); });
 
         // Establece el idioma inicial según la configuración actual
         int currentLocaleIndex = availableLocales.IndexOf(LocalizationSettings.SelectedLocale);
-        languageDropdown.value = currentLocaleIndex;
+        DropdownLangComponent.value = currentLocaleIndex;
     }
 
     public void OnLanguageChanged(TMP_Dropdown change)
