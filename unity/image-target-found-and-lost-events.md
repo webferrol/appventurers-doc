@@ -8,6 +8,8 @@
 7) Asignamos Animator e animación ó personaxe
    
 ----
+```
 NOTAS:
 O 'Audio Source' das propiedades dos personaxes debe estar en 'None'
 Cada audio ten que estar asignado a un obxeto AudioSource distinto
+```
