@@ -31,7 +31,8 @@ Unity puede crear aplicaciones de Android en los siguientes formatos de publicac
         - Desmarcamos check **Auto Graphics API** y eliminamos **Vulkan**
         - Aumentamos **Minimun API Level** -> API Level 29
         - **Scripting Backend** -> IL2CPP
-        - **ARM64** -> Marcamos check y desmarcamos **ARMv7**
+        - **ARM64** -> Marcamos check y desmarcamos **ARMv7**    
+            (*ARM64 ofrece una mayor capacidad de procesamiento de datos y dirección de memoria en comparación con ARMv7, lo que puede traducirse en un mejor rendimiento en ciertas aplicaciones, especialmente en dispositivos con una gran cantidad de RAM y procesadores de 64 bits.*)
 
         ![Alt text](../images/other-config2.png)
 
