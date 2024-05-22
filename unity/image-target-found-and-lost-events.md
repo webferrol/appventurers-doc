@@ -1,4 +1,4 @@
-# ASIGNAR ANIMACIÓN E AUDIO A PERSOAXES:
+# ASIGNAR ANIMACIÓN E AUDIO A PERSONAXES:
 1) Seguimos os pasos de importación de persoaxe incluídos no [readme](https://github.com/webferrol/appventurers-doc/blob/main/unity/characters-guide.md)
 2) Movemos o personaxe dentro da xerarquía do proxecto a: ImageTarget -> PanelAnclaxe -> o_noso_personaxe
 3) Copiamos o script 'CharacterPlay.cs' ó noso proxecto e asignámosllo á ImageTarget
