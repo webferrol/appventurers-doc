@@ -33,6 +33,8 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [⏯️ GameObject Scrollview](./unity/scrollview.md)
 - [Guía de importación de personajes](./unity/characters-guide.md)
 - [Asignar animación e audio a personajes](./unity/image-target-found-and-lost-events.md)
+- [Crear Asset Tables](./unity/Asset-table.md)
+- [Menú Acordeón](./unity/menu-accordion.md)
 
 ### Correciones de avisos y errores
 
