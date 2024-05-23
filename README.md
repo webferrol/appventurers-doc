@@ -24,7 +24,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ## Google Play Console
 
-- [Instalar/Actualizar]() ---Pendiente documentación
+- [⏯️ Guía en Unity](https://www.youtube.com/watch?v=UXl_C3ZnRLc)
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/5d1edad5-8fac-4093-8752-4ca291d96b26" width="24" alt="unity"> UNITY
 
