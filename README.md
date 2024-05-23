@@ -31,10 +31,13 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [⏯️ Subtítulos](./unity/subtitles.md)
 - [⏯️ Escalado de imágenes](./unity/config-autoescalado.md)
 - [⏯️ GameObject Scrollview](./unity/scrollview.md)
+- [⏯️ Guía para instalar paquete de CC en Unity](https://github.com/webferrol/appventurers-doc/blob/main/unity/character-creator-configuration.md)
+- [⏯️ Implementación subtítulos en Unity](https://github.com/webferrol/appventurers-doc/blob/main/unity/subtitles.md)
 - [Guía de importación de personajes](./unity/characters-guide.md)
 - [Asignar animación e audio a personajes](./unity/image-target-found-and-lost-events.md)
 - [Crear Asset Tables](./unity/Asset-table.md)
 - [Menú Acordeón](./unity/menu-accordion.md)
+- [Controlador para los movementos del personaje en Unity](https://github.com/webferrol/appventurers-doc/blob/main/unity/controlador-unity-movementos.md)
 
 ### Correciones de avisos y errores
 
