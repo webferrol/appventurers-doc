@@ -12,8 +12,8 @@
 NOTAS:
 - O 'Audio Source' das propiedades dos personaxes debe estar en 'None'
 - Cada audio ten que estar asignado a un obxeto AudioSource distinto
+- Para unha correcta visualización dos modelos no móbil, débese cambiar, na Image Target, a opción 'Consider target visible (...)' dentro de 'Default Observer Event Handler (Script)' a 'Tracked'
 - No punto 4), para asignar correctamente o script CharacterPlay.cs enlazado á ImageTarget, debemos arrastrar o obxeto ImageTarget dende a xerarquía do proxecto, non o script.
 ```
 Exemplo: <br>
 ![CapturaTARGETS](https://github.com/webferrol/appventurers-doc/assets/148337654/d9e0caaa-5963-4223-a426-0f5174ce8815)
-
