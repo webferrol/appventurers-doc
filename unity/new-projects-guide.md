@@ -53,7 +53,7 @@ Doble click en: [add-vuforia-package-10-22-5.unitypackage]
 (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/)
 ```
 
-```
+
 
 6. Cambiar Build Settings para Android:
 
@@ -69,7 +69,7 @@ File -> Build Settings -> Android -> Switch Platform
 (Localizado en: Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
 
 ([Localizado en]: (https://github.com/webferrol/appventurers-doc/tree/main/demo/Assets))
-
+```
 
 --------------------------------
 
