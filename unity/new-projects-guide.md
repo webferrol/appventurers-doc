@@ -74,6 +74,5 @@ File -> Build Settings -> Android -> Switch Platform
 --------------------------------
 
 IMPORTANTE:
-* INTENTAR COPIAR TODO A LOCAL ANTES DE TOCALO!
-* NON TRABALLAR CON ARQUIVOS DIRECTAMENTE DENDE A COMPARTIDA!
+* Non traballar directamente cos arquivos da compartida, mellor copialos antes a local
   
