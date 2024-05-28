@@ -13,7 +13,7 @@
 1. Crear proxecto de Unity:
 
 ```
-Unity HUB -> New Project -> 3d Core
+Unity HUB -> New Project -> 3d Core (Built-In Render Pipeline)
 ```
 
 
