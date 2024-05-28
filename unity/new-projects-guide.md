@@ -31,7 +31,7 @@ Window -> Package Manager -> add package by name: "com.unity.localization"
 3. [OPCIONAL] Instalar Reallusion:
 
 ```
-Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
+Window -> Package Manager -> add package from disk: /cc_unity_tools_3D/package.json
 
 (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/)
 ```
@@ -40,7 +40,7 @@ Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.js
 4. Instalar 3D Tools:
 
 ```
-assets -> import package -> custom package: /packages/RL_ShaderPackage_3D.unitypackage
+assets -> import package -> custom package: /cc_unity_tools_3D/packages/RL_ShaderPackage_3D.unitypackage
 
 (Localizado en: /compartida/APPVENTURERS/unity/Doc/Packages/cc_unity_tools_3D/Packages/)
 ```
