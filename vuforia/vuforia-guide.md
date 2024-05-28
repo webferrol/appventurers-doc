@@ -67,5 +67,8 @@ Click dereito na xerarquía -> Vuforia Engine -> AR Camera
 Click dereito na xerarquía -> Vuforia Engine -> Image Target
 
 ```
+--------
+IMPORTANTE: 
 
-Todos os obxectos que se sitúen dentro do ImageTarget se verán só cando enfoquemos a ImageTarget ca cámara
+* Todos os obxectos que se sitúen dentro do ImageTarget se verán só cando enfoquemos a ImageTarget ca cámara
+* A BBDD coas imaxe targets do proxecto Appventurers está na carpeta compartida: Z:\Appventurers\Unity\Doc\Packages\Appventures-DB.unitypackage
