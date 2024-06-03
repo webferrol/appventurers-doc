@@ -10,12 +10,15 @@ public class TMP_LanguageFriendlySelector : MonoBehaviour
     public TMP_Dropdown DropdownLangComponent; // Asigna el TMP_Dropdown desde el inspector
     public List<Locale> supportedLocales; // Recuerda cargar en el inspector los locales
     [SerializeField] private Locale defaultLocale; // Esta opción por si queremos cargar un idioma por defecto
+    private const string LocaleKey = "SelectedLocale"; // Clave para almacenar el idioma seleccionado en PlayerPrefs
 
     void Start()
     {
-        if (defaultLocale)
+        if (defaultLocale && !PlayerPrefs.HasKey(LocaleKey))
         {
             LocalizationSettings.SelectedLocale = defaultLocale;
+            PlayerPrefs.SetString(LocaleKey, defaultLocale.Identifier.Code);
+            PlayerPrefs.Save();
         }
 
         var availableLocales = LocalizationSettings.AvailableLocales.Locales;
