@@ -63,7 +63,7 @@ File -> Build Settings -> Android -> Switch Platform
 (Se vamos a usar varias escenas, agregalas a 'Scenes in Build' arrastrándoas dende o explorador de Unity.)
 ```
 
-7. Copiar os Assets da carpeta compartida aos Assets en Local:
+7. [OPCIONAL] Copiar os Assets da carpeta compartida aos Assets en Local:
 
 ```
 (Localizado en: Window -> Package Manager -> add package from disk: cc_unity_tools_3D/package.json
