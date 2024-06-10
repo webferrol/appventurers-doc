@@ -11,10 +11,10 @@ public class GuardadoBoton : MonoBehaviour
 
 
 
-    // Método Start se llama antes de la primera actualización del frame
+    // MÃ©todo Start se llama antes de la primera actualizaciÃ³n del frame
     void Start()
     {
-        // Encuentra todos los GameObject de tipo botón que son hijos directos del GameObject y asigna el evento de clic
+        // Encuentra todos los GameObject de tipo botÃ³n que son hijos directos del GameObject y asigna el evento de clic
         Button[] buttons = GetComponentsInChildren<Button>();
         foreach (Button button in buttons)
         {
@@ -52,7 +52,7 @@ public class GuardadoBoton : MonoBehaviour
         Debug.Log(json);
     }
 
-    // Método para agregar un valor al conjunto guardado en PlayerPrefs
+    // MÃ©todo para agregar un valor al conjunto guardado en PlayerPrefs
     public void AgregarPersonaje(string nuevoPersonaje)
     {
         // Obtener el JSON guardado previamente
@@ -88,12 +88,12 @@ public class GuardadoBoton : MonoBehaviour
             }
             else
             {
-                Debug.LogWarning("No se encontró el componente TextMeshProUGUI en el objeto 'TextoACambiar'.");
+                Debug.LogWarning("No se encontrÃ³ el componente TextMeshProUGUI en el objeto 'TextoACambiar'.");
             }
         }
         else
         {
-            Debug.LogWarning("No se encontró el GameObject llamado 'TextoACambiar'.");
+            Debug.LogWarning("No se encontrÃ³ el GameObject llamado 'TextoACambiar'.");
         }
 
         // objetoTexto.text = "TEXTO CAMBIADO";
