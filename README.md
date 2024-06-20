@@ -1,7 +1,5 @@
 # 📱 Realidad aumentada
 
-<img width="600" src="https://github.com/webferrol/appventurers-doc/assets/35032717/36f2ddf0-9cce-4d23-80c7-85dc84f193a2" alt="Developer">
-
 ## Contacto
 
 - [📧 obradoirosdeemprego@santiagodecompostela.gal](obradoirosdeemprego@santiagodecompostela.gal)
