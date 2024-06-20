@@ -18,10 +18,6 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 - [Problemas que se toparon anteriormente](https://drive.google.com/drive/folders/1M34nB8200c8ZVYa6uEQhkyKCv-Jadxh7?usp=sharing)
 
-## Despliegues
-
-- [<img width="18" src="https://github.com/webferrol/appventurers-doc/assets/35032717/201fbb2f-66a7-45c1-a54e-674f04a8ca90"> En Android](./deploys/android.md)
-
 ## Google Play Console
 
 - [⏯️ Guía en Unity](https://www.youtube.com/watch?v=UXl_C3ZnRLc)
