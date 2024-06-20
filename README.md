@@ -63,6 +63,13 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [⏯️ Unity Remote. App para Android](https://www.youtube.com/watch?v=4pxh_eI-rG8)
 - [📐 Para diagramar](https://www.drawio.com/blog/move-diagrams-net)
 
+## Despliegues
+
+### Android
+
+1. [Generar APK](./deploys/android/android-apk-aab.md)
+2. [Play Store](./deploys/android/play-store.md)
+
 ## Enlaces para ver
 
 - [Export Character Creator to unity](https://youtu.be/tgirPjknAv4)
