@@ -43,7 +43,19 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 ### Unity Project settings configurations
 
-bla bla bla
+1) Clonar proxecto dende o controlador de versións
+
+2) Importar en Unity e descargar a versión de Unity correspondente ó proxecto[2022.3.27f1]
+
+3) Unha vez importado:
+
+```
+player settings -> resolution and presentation:
+
+- Desmarcar 'Hide Navigation Bar'
+- Poñer Default Orientation en 'Portrait'
+- 'Splash image' -> Poñer o logo 'Senda do Sar' en SVG
+```
 
 ## <img src="https://github.com/webferrol/appventurers-doc/assets/35032717/ddd196af-9842-4560-9666-f121e69ec1d7" width="24" alt="vuforia"> Vuforia
 
