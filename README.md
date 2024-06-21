@@ -72,7 +72,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 ### Android
 
 1. [Generar APK](./deploys/android/android-apk-aab.md)
-2. [Play Store](./deploys/android/play-store.md)
+2. [Play Console](./playConsole/configuracionPlayConsole.md)
 
 ## Enlaces para ver
 
