@@ -8,10 +8,6 @@
 
 Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTRIBUTING](./CONTRIBUTING.md).
 
-## Diagrama del proyecto
-
-- [Diagrama en Drawio]([./deploys/android.md](https://drive.google.com/file/d/1_rwJqQdyMqmlfV_UfCPRWmVZgKmLhxPP/view?usp=sharing))
-
 ## Master Class
 
 - [Problemas que se toparon anteriormente](https://drive.google.com/drive/folders/1M34nB8200c8ZVYa6uEQhkyKCv-Jadxh7?usp=sharing)
