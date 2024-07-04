@@ -32,6 +32,7 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 - [Crear Asset Tables](./unity/Asset-table.md)
 - [Menú Acordeón](./unity/menu-accordion.md)
 - [Controlador para los movementos del personaje en Unity](https://github.com/webferrol/appventurers-doc/blob/main/unity/controlador-unity-movementos.md)
+- [Embeber vídeos de YouTube en proyecto de Unity](https://github.com/iBicha/UnityYoutubePlayer)
 
 ### Correciones de avisos y errores
 
