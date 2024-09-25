@@ -16,6 +16,7 @@
 Unity HUB -> New Project -> 3d Core (Built-In Render Pipeline)
 ```
 
+**Aquí se utilizó 3d Core, pero puede ser cualquier proyecto en 3D**
 
 2. Implementar soporte para iconos SVG y Localization:
    
