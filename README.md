@@ -3,6 +3,7 @@
 ## Contacto
 
 - [📧 obradoirosdeemprego@santiagodecompostela.gal](obradoirosdeemprego@santiagodecompostela.gal)
+- [innobosquesantiago@gmail.com](innobosquesantiago@gmail.com)
 
 ## 🧑‍🤝‍🧑 Contribuir
 
