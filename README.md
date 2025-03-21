@@ -84,33 +84,33 @@ Normas y reglas para poder contribuir en el proyecto. Consulta el fichero [CONTR
 
 - [x] Conocimiento interfaz
 - [] Móvil
-    - [] Android
-        - [] Cuenta developer
+    - [x] Android
+        - [x] Cuenta developer
         - [x] Generación producción aab
-        - [] Ajustes para la aplicación
-            - [] Icono de instalación
-            - [] Descripción de juego, instalación, uso   
-        - [] Publicación
-        - [] Subir al store
+        - [x] Ajustes para la aplicación
+            - [x] Icono de instalación
+            - [x] Descripción de juego, instalación, uso   
+        - [x] Publicación
+        - [x] Subir al store
     - [] IOS
         - Subir al store
-- [] Estáticos
+- [x] Estáticos
     - [x] Texto
-        - [] Cambiar de idioma
+        - [x] Cambiar de idioma
     - [x] Vídeos
     - [x] Audio
     - [x] Geolocacización
         - [] leaflet
         - [x] Google
-- [] Interactividad
+- [x] Interactividad
     - [x] movimiento cursor
     - [x] Seleccionarlo para hacer algo
     - [x] Usuario puede escribir en algo paracido formulario (textarea)
     - [x] Enviar datos formularios
 
-- [] Vuforia
+- [x] Vuforia
     - [x] Hacer base de datos
     - [] Costo de la base de datos (número conexiones, megas...)
     - [] Google maps
 - [] AR Core Foundation
-    - [] Google mpas
+    - [] Google Maps
